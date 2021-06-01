@@ -1,6 +1,6 @@
 
   # Work Day Scheduler
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Theetrebor04/Work Day Scheduler)
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Theetrebor04/Work-Day-Scheduler)
 
 # Description
 
